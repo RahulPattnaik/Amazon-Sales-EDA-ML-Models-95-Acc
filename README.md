@@ -51,6 +51,3 @@ This project analyzes an Amazon product dataset (1,465 rows, 16 columns) scraped
 * Add sentiment analysis on customer reviews
 * Deploy predictive model as a web app
 
-## 🙌 Acknowledgments
-
-This project is for educational purposes and uses publicly available Amazon product data.
