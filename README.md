@@ -33,15 +33,12 @@ This project analyzes an Amazon product dataset (1,465 rows, 16 columns) scraped
 
 ## 📝 How to Run
 
-1. Clone this repository
 
-  git clone https://github.com/your-username/amazon-analysis.git
-
-2. Install dependencies
+ Install dependencies
 
   pip install -r requirements.txt
 
-3. Open Jupyter Notebook and run the analysis
+ Open Jupyter Notebook and run the analysis
 
  jupyter notebook
 
