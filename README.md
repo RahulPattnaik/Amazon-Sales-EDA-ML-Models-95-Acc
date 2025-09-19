@@ -9,7 +9,7 @@ This project analyzes an Amazon product dataset (1,465 rows, 16 columns) scraped
 * **Rows:** 1,465
 * **Columns:** 16
 * **Features:** Product ID, Name, Category, Prices, Discounts, Ratings, Reviews, Product Links
-* **Source:** Scraped from Amazon (for learning purposes only)
+* **Source:** Scraped from Amazon 
 
 ## ⚙️ Workflow
 
